@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: demo_mod
+Specification-Vendor: demo_modsareus
+Specification-Version: 1
+Implementation-Title: mod_demo
+Implementation-Version: 1.0
+Implementation-Vendor: demo_modsareus
+Implementation-Timestamp: 2022-07-28T14:23:19-0500
+
